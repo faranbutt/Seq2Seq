@@ -96,7 +96,7 @@ This allows you to enter German sentences and get English translations in real-t
 Check if CUDA is available:
 
 ```bash
-python faran.py
+python gpu.py
 ```
 
 ## Configuration

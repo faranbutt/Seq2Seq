@@ -175,13 +175,10 @@ The model uses the **Multi30k** dataset, which contains 30,000 German-English se
 - `tensorboard` - Training visualization
 - `portalocker==2.8.2` - File locking utilities
 
-## License
-
-[Add your license here if applicable]
 
 ## Contributing
 
-[Add contribution guidelines if applicable]
+Feel free to contribute
 
 ## Acknowledgments
 

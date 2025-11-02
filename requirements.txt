@@ -1,0 +1,6 @@
+torch==2.2.0
+torchtext
+nltk
+portalocker==2.8.2
+tqdm
+tensorboard

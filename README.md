@@ -1,6 +1,6 @@
-# Seq2Seq Neural Machine Translation
+# Seq2Seq with Neural Networks
 
-A PyTorch implementation of a Sequence-to-Sequence (Seq2Seq) neural machine translation model for translating German to English. This project uses an Encoder-Decoder architecture with LSTM layers to learn translation patterns from the Multi30k dataset.
+A PyTorch implementation of the Sequence-to-Sequence (Seq2Seq) neural machine translation model proposed by Sutskever et al. (2014). The model uses an Encoder–Decoder architecture with stacked LSTM layers, where the encoder compresses a German input sentence into a fixed-length context vector, which is then used by the decoder to generate the corresponding English translation. The model is trained and evaluated on the Multi30k dataset.
 
 ![seq2seq](images/header.png)
 
